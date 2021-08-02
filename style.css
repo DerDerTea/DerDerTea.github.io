@@ -1,3 +1,12 @@
 a:hover{
   color: green;
 }
+
+body{
+  display: flex
+  flex-direction: column;
+}
+mian{
+  display: flex
+  flex: auto;
+}
