@@ -21,5 +21,13 @@ footer {
   display: flex;
   font-size: 12px;
   justify-content: flex-end;
-  align-items: flex-start;  
+  align-items: flex-start;
+   
+}
+a {
+  color: black;
+}
+nav {
+  position: sticky;
+  top: 10px;
 }
