@@ -13,6 +13,7 @@ main {
 }
 aside {
   flex: 1;
+  background: ##f6f6f6;
 }
 article {
   flex: 3;
